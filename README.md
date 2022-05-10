@@ -23,3 +23,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h9-tect&show_icons=true&locale=en" alt="h9-tect" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h9-tect&" alt="h9-tect" /></p>
+## ❤ Views and Followers
+<a href="https://github.com/h9-tect/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+</a>
+<a href="https://github.com/h9-tect?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
