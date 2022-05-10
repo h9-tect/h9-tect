@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm HeshamHaroon</h1>
 <h3 align="center">Machine Learning ,Deep Learning, and Nlp Freelancer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/h9-tect](https://github.com/h9-tect)
+- 👨‍💻 All of my projects are available at [My projects](https://github.com/h9-tect)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/7869356261850495689?pli=1](https://www.blogger.com/blog/posts/7869356261850495689?pli=1)
-
+- 📝 I regularly write articles on [my blog](https://www.blogger.com/blog/posts/7869356261850495689?pli=1)
+- 	 
 - 📫 How to reach me **heshamharoon19@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/Hesham.DESKTOP-09QSUFK/Downloads/my_cv.pdf](file:///C:/Users/Hesham.DESKTOP-09QSUFK/Downloads/my_cv.pdf)
