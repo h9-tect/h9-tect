@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HeshamHaroon</h1>
+<h1 align="center">Hi 👋, I'm Hesham Haroon</h1>
 <h3 align="center">Machine Learning ,Deep Learning, and Nlp Freelancer</h3>
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/h9-tect)
