@@ -7,7 +7,7 @@
 - 	  
 - 📫 How to reach me **heshamharoon19@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1zHGH2w8j-MmZShgXRI9zgJyveM-kfoj7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
