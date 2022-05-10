@@ -2,9 +2,9 @@
 <h3 align="center">Machine Learning ,Deep Learning, and Nlp Freelancer</h3>
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/h9-tect)
-
+- you can find my youtube channel [here](https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA0)
 - 📝 I regularly write articles on [my blog](https://www.blogger.com/blog/posts/7869356261850495689?pli=1)
-- 	 
+- 	  
 - 📫 How to reach me **heshamharoon19@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/Hesham.DESKTOP-09QSUFK/Downloads/my_cv.pdf](file:///C:/Users/Hesham.DESKTOP-09QSUFK/Downloads/my_cv.pdf)
