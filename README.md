@@ -7,7 +7,7 @@
 - 	  
 - 📫 How to reach me **heshamharoon19@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Hesham.DESKTOP-09QSUFK/Downloads/my_cv.pdf](file:///C:/Users/Hesham.DESKTOP-09QSUFK/Downloads/my_cv.pdf)
+- 📄 Know about my experiences [My resume](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
