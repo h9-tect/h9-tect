@@ -26,6 +26,8 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-417BAF?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-35495e?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=h9-tect&show_icons=true&theme=dark&layout=compact)
