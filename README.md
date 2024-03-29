@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hesham Haroon
-### Machine Learning, Deep Learning, and NLP Freelancer
+### Crafting the Future with AI: Machine Learning Maverick, Deep Learning Virtuoso, & NLP Wizard
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/h9-tect)
 - 🎥 You can find my YouTube channel [here](https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA)
